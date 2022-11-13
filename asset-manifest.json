@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie_app_2022/static/css/main.df7854b8.css",
+    "main.js": "/movie_app_2022/static/js/main.5200a9e9.js",
+    "index.html": "/movie_app_2022/index.html",
+    "main.df7854b8.css.map": "/movie_app_2022/static/css/main.df7854b8.css.map",
+    "main.5200a9e9.js.map": "/movie_app_2022/static/js/main.5200a9e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df7854b8.css",
+    "static/js/main.5200a9e9.js"
+  ]
+}
